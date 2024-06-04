@@ -1,0 +1,7 @@
+/shelf/
+/httpRequests/
+/dataSources/
+/dataSources.local.xml
+.idea
+target
+logs
